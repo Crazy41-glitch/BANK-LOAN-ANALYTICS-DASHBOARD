@@ -38,10 +38,12 @@ README.md
 ```
 ---
 ## Dashboard Screenshots
+
 ### Summary Dashboard
-![Summary Dashboard](Images/dashboard-summary.png)
+![Summary Dashboard](dashboard-summary.png)
+
 ### Overview Dashboard
-![Overview Dashboard](Images/dashboard-overview.png)
+![Overview Dashboard](dashboard-overview.png)
 ---
 ## How to Use
 1. Download the `.pbix` file
